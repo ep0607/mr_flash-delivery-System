@@ -1,0 +1,4 @@
+#Wed Dec 18 07:08:40 MMT 2019
+base.0=/Users/eiphyu/Mr_Flash/StaffMF/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
